@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 3 problems · 0 labs · 6 math
+**17** solved · 11 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,9 +12,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-10-08 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-08 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-07 | [solution](problems/0083-dot-product-calculator) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-08 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-08 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-08 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-07 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-07 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-08 | [solution](problems/0009-matrix-times-matrix) |
+| [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-10-08 | [solution](problems/0312-quotient-rule-for-derivatives) |
 
 ## Math
 

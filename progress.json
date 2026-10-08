@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T11:56:48.270Z",
+  "generated_at": "2026-10-12T11:56:51.181Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -105,6 +105,110 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-07T16:21:00.715Z",
       "last_pushed_at": "2026-10-07T16:21:00.715Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-10-08T04:16:37.448Z",
+      "last_pushed_at": "2026-10-08T04:16:37.448Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-10-08T11:44:40.682Z",
+      "last_pushed_at": "2026-10-08T11:44:40.682Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-10-08T11:50:46.484Z",
+      "last_pushed_at": "2026-10-08T11:50:46.484Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-08T12:03:31.081Z",
+      "last_pushed_at": "2026-10-08T12:03:31.081Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-10-08T12:30:45.603Z",
+      "last_pushed_at": "2026-10-08T12:30:45.603Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-08T13:00:18.917Z",
+      "last_pushed_at": "2026-10-08T13:00:18.917Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-08T13:43:07.881Z",
+      "last_pushed_at": "2026-10-08T13:43:07.881Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-10-08T13:48:39.960Z",
+      "last_pushed_at": "2026-10-08T13:48:39.960Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
