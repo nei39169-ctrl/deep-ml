@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T11:56:58.775Z",
+  "generated_at": "2026-10-12T11:57:01.392Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -421,6 +421,28 @@
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-10-11T16:25:56.238Z",
       "last_pushed_at": "2026-10-11T16:25:56.238Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-10-12T11:39:53.217Z",
+      "last_pushed_at": "2026-10-12T11:39:53.217Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-10-12T11:51:18.821Z",
+      "last_pushed_at": "2026-10-12T11:51:18.821Z"
     }
   }
 }
