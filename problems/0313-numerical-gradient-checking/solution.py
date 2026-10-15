@@ -13,22 +13,26 @@ def numerical_gradient_check(f, x, analytical_grad, epsilon=1e-7):
     Returns:
         tuple: (numerical_grad, relative_error)
     """
-    x = np.asarray(x,dtype = float)
     n = len(x)
+    x = np.asarray(x,dtype=float)
     approximation_grad = np.zeros(n)
+
     for i in range(n):
         x1 = x.copy()
         x2 = x.copy()
         x1[i] += epsilon
         x2[i] -= epsilon
-        approximation_grad[i] = ((f(x1)-f(x2))/(2*epsilon))
+        approximation_grad[i] = (f(x1)-f(x2))/(2*epsilon)
 
     delta = approximation_grad - analytical_grad
-    norm_delta = np.linalg.norm(delta)
-    norm_appr_grad = np.linalg.norm(approximation_grad)
-    norm_anal_grad = np.linalg.norm(analytical_grad)
-    if norm_appr_grad == norm_anal_grad == 0:
+    len_delta = np.linalg.norm(delta)
+    len_approximation_grad = np.linalg.norm(approximation_grad)
+    len_analytical_grad = np.linalg.norm(analytical_grad)
+
+    if len_approximation_grad == len_analytical_grad == 0:
         relative_error = 0.0
     else:
-        relative_error = norm_delta/(norm_anal_grad + norm_appr_grad)
-    return approximation_grad, relative_error
+        relative_error = (len_delta)/(len_analytical_grad + len_approximation_grad)
+
+    return approximation_grad,relative_error 
+    
